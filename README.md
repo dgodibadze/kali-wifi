@@ -1,6 +1,9 @@
 # kali-wifi
 WIFI scripts for KALI Linux
 
+**WARNING: DO NOT USE THIS SCRIPTS FOR ILLEGAL ACTIVITIES!**
+
+
 **./mo-w0.sh** - Short for Monitor WLAN 0
 * Kills two processes (**NetworkManager** & **wpa_supplicant**) that could cause trouble. 
 * Sets the interface wlan0 mode to Monitor
